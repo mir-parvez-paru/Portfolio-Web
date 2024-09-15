@@ -1,0 +1,16 @@
+h1{
+    font-size: 50px;
+}
+.name-color{
+    color: orange;
+}
+.left-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+    margin-top: 2%;
+}
+.left-width img{
+    width: 100%;
+}
