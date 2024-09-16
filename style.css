@@ -1,6 +1,9 @@
 h1{
     font-size: 50px;
 }
+.linkedin{
+    font-size: 20px;
+}
 .name-color{
     color: orange;
 }
@@ -18,7 +21,7 @@ h1{
     background-image: url("Images/top-banner.png");
     background-repeat: no-repeat;
 }
-section{
+.top-banner{
     height: 500px;
 }
 body{
@@ -32,4 +35,61 @@ body{
     font-weight: bold;
     border-radius: 5px;
     color: white;
+}
+
+
+
+
+
+.Social-media{
+    color: tomato;
+}
+.right-width{
+    width: 40%;
+    float: left;
+    margin-right: 6%;
+    padding-right: 4%;
+    margin-bottom: 50%;
+    margin-bottom: 2%;
+}
+.bottom-banner{
+    height: 500px;
+}
+.right-width img{
+    width: 100%;
+}
+.social-para{
+    font-size: 20px;
+}
+.facebook{
+    text-decoration: none;
+    background-image: linear-gradient(45deg white, red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+}
+.bottom-banner{
+    background-image: url("Images/top-banner-dev.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Linkedin{
+    text-decoration: none;
+    background-image: linear-gradient(45deg white, red);
+    padding: 8px 20px;
+    border-radius: 5px;
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+}
+.instagram{
+    text-decoration: none;
+    background-image: linear-gradient(45deg white, red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
 }
