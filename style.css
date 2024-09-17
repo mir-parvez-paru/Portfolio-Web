@@ -56,7 +56,7 @@ body{
     height: 500px;
 }
 .right-width img{
-    width: 100%;
+    width: 70%;
 }
 .social-para{
     font-size: 20px;
@@ -92,4 +92,28 @@ body{
     background-color: tomato;
     color: white;
     font-weight: bold;
+}
+
+
+
+
+.stack{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.pro{
+    flex: 1;
+    text-align: center;
+}
+.html-1{
+    flex: 1;
+    text-align: left;
+    padding-left: 220px;
+}
+.html-2{
+    flex: 1;
+    text-align: left;
+    padding-left: 232px;
 }
