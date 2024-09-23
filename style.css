@@ -104,16 +104,26 @@ body{
     padding: 20px;
 }
 .pro{
-    flex: 1;
+    flex: 2;
     text-align: center;
 }
 .html-1{
-    flex: 1;
+    flex: 2;
     text-align: left;
     padding-left: 220px;
 }
 .html-2{
-    flex: 1;
+    flex: 10;
     text-align: left;
     padding-left: 232px;
+}
+
+.single-ex{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.ex-1{
+    flex: 2;
+    text-align: left;
+    padding-left: 220px;
 }
